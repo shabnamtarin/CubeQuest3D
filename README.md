@@ -1,1 +1,0 @@
-It’s a 3D action-arcade game where  a cubic player navigates an arena, collecting geometric shapes for points and power-ups while avoiding obstacles and enemies. The challenge increases across levels with faster foes, more hazards, and chances to upgrade your abilities.
